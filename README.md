@@ -2,7 +2,7 @@
 
 Full-stack developer and team lead from Londrina, Brazil. I build products that handle people's money (marketplaces, wallets and payments), where a small mistake costs someone real money, so I make sure it doesn't happen.
 
-At **FoxCorp** I lead development on three products at the same time, from talking with the client to shipping to production. Most of that work is in private client repositories, so the activity graph is the visible part.
+At **FoxCorp** I lead development on three products at the same time, from talking with the client to shipping to production. About 3,800 contributions since 2025, almost all in private client repositories. The graph shows the activity, not the code, so I'm happy to walk through the work in a call.
 
 **What I've delivered**
 
