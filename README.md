@@ -1,23 +1,28 @@
 ### Hi, I'm Felipe 👋
 
-Full stack developer and team lead from Londrina, Brazil. I build marketplaces and money-handling systems — wallets, payments, reconciliation, audit trails — the kind of code where a rounding error or a timezone bug costs someone real money.
+Full-stack developer and team lead from Londrina, Brazil. I build products that handle people's money — marketplaces, wallets and payments — where a small mistake costs someone real money, so I make sure it doesn't happen.
 
-Currently at **FoxCorp**, leading development on three products in parallel. Most of my professional work lives in private client repos on GitLab, so this profile shows only a slice of it.
+At **FoxCorp** I lead development on three products at the same time, from talking with the client to shipping to production. Most of that work is in private client repositories, so the activity graph is the visible part.
 
-**What I've worked on**
+**What I've delivered**
 
-- **CSP2P** — a Counter-Strike 2 skin marketplace. Led it from the first commit to a closed beta with real sellers: Steam login and inventory sync, trades, disputes, buy orders, PIX and card payments (Asaas), and a wallet that stores every amount in cents so balances always add up.
-- **CakeOps** — point-of-sale for a confectionery chain. Traced a client-reported slowdown to an N+1 problem (63 queries → 5, POS 13% faster) and grew the frontend test suite from 96 to 786 tests, with CI blocking any coverage drop.
-- **LinQ** — app and admin panel for an internet service provider.
-- **[IndieGameFan](https://indiegame.fan)** — indie game discovery platform, built from scratch as a remote freelancer. Weekly Steam API data pipeline with failure alerts, multi-language React frontend.
-- **ai-manager-engine** — internal tool I co-created that runs AI agents through planning, implementation, testing and code review across all our products.
+- **CSP2P** — a Counter-Strike 2 skin marketplace. Took it from the first line of code to a closed beta with real sellers, and led a team of 3 developers along the way.
+  - Customers can never spend the same balance twice, even when paying at the same moment, and every amount always adds up.
+  - Identity checks before any money leaves the platform, with personal data encrypted.
+  - Affiliate program and VIP tiers to grow sales.
+  - Built the frontend's automated testing from scratch, so new releases stop breaking what already worked.
+- **CakeOps** — point-of-sale system for a confectionery chain.
+  - Fixed a slowdown the client reported: checkout screen 13% faster, sales loading 32% faster.
+  - Grew automated tests from 96 to 786, with releases blocked if quality drops.
+  - Connected delivery-app orders so they arrive in the store's system automatically.
+- **LinQ** — app and admin panel for an internet provider, prepared for launch.
+- **[IndieGameFan](https://indiegame.fan)** — indie game discovery platform, built from scratch as an **international remote freelancer**, with product meetings in English. The game catalog updates itself every week, with no manual work.
+- **AI-assisted development** — co-created our internal tool that has AI agents plan, build, test and review code across all our products, more than tripling what each developer delivers per month.
 
-**Stack**
+**How I work:** I own the result, not just the ticket. Before becoming a developer I was a B2B salesperson handling about 200 business clients, so I understand what the customer needs and why it matters to the business.
 
-TypeScript · React · Next.js · React Native · Node.js · Express · PostgreSQL · TypeORM · Jest · Vitest · Playwright · Docker
+**Tools:** TypeScript · React · Next.js · React Native · Node.js · PostgreSQL · Docker · automated testing (Jest, Vitest, Playwright)
 
-**Things I care about:** TDD, readable code reviews, and fixing the silent failures nobody has noticed yet.
-
-🇧🇷 Portuguese (native) · 🇬🇧 English (C1) · open to relocation (EU Blue Card eligible)
+🇧🇷 Portuguese (native) · 🇬🇧 English (C1 Advanced, [EF SET](https://cert.efset.org/XwgXiF)) · open to remote work and relocation (EU Blue Card eligible)
 
 [LinkedIn](https://linkedin.com/in/felipe-aug) · [GitLab](https://gitlab.com/felipesouza2)
