@@ -17,7 +17,7 @@ At **FoxCorp** I lead development on three products at the same time, from talki
   - Connected delivery-app orders so they arrive in the store's system automatically.
 - **LinQ:** app and admin panel for an internet provider, prepared for launch.
 - **[IndieGameFan](https://indiegame.fan):** indie game discovery platform, built from scratch as an **international remote freelancer**, with product meetings in English. The game catalog updates itself every week, with no manual work.
-- **AI-assisted development:** co-created our internal tool that has AI agents plan, build, test and review code across all our products, more than tripling what each developer delivers per month. I also documented and standardized how the company develops, so any new or current developer can join another project with easy onboarding and no setup issues.
+- **AI-assisted development:** co-created our internal tool that has AI agents plan, build, test and review code across all our products, more than tripling what each developer delivers per month. Because it keeps every project documented and standardized, any new or current developer can join another project with easy onboarding and no setup issues.
 
 **How I work:** I own the result, not just the ticket. Before becoming a developer I was a B2B salesperson handling about 200 business clients, so I understand what the customer needs and why it matters to the business.
 
